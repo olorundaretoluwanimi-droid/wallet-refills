@@ -1,0 +1,33 @@
+WHAT IF YOUR WALLET REFILLED EVERY MORNING? — third-party assets and licences
+
+Voices
+  Kokoro-82M text-to-speech (hexgrad), run offline through kokoro-onnx — Apache License 2.0.
+  Voices used: bm_fable (narrator), am_liam (you), am_onyx (Agent Pike), af_bella (barista), bf_emma (teller).
+  The voices are synthetic. Speech check: faster-whisper base.en (MIT).
+
+Music (original score written for this film, rendered from these sample libraries)
+  VS Chamber Orchestra: Community Edition, Versilian Studios / Sam Gossner — CC0 1.0
+    (strings — arco, pizzicato, spiccato; flute, oboe, clarinet, bassoon; trumpet, French horn, tuba; snare, cymbals)
+    https://github.com/sgossner/VSCO-2-CE
+  Versilian Community Sample Library (VCSL) — CC0 1.0
+    (concert harp, glockenspiel, xylophone, vibraphone, suspended cymbal)
+    https://github.com/sgossner/VCSL
+  Karoryfer Samples, "Sneakybass" jazz double bass — CC0 1.0
+    https://github.com/sfzinstruments
+
+Sound effects and ambience
+  Synthesised procedurally (numpy/scipy) for this film. No recordings.
+
+Fonts (self-hosted)
+  Cinzel — The Cinzel Project Authors (Natanael Gama) — SIL Open Font License 1.1 (fonts/OFL-Cinzel.txt)
+  Cormorant Garamond — The Cormorant Project Authors (Christian Thalmann) — SIL Open Font License 1.1 (fonts/OFL-CormorantGaramond.txt)
+
+Software
+  three.js r170 — MIT License.
+
+Pictures
+  Every image in the film (the town, the rooms, the characters, the banknotes, the textures) is drawn in code for this film.
+  No photographs, footage, scans of real banknotes or generated images.
+
+Facts
+  Sources for the facts stated in the narration and dialogue: FACTS.md.

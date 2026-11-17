@@ -1,0 +1,7 @@
+out/
+stills/
+out_s*.jpg
+voices/*.wav
+voices/.cache/
+*.mp4
+__pycache__/
