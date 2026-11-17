@@ -14,7 +14,7 @@ FPS=30
 cd "$LIB"
 "$PY" core/audio/sampler.py --need "$HERE/score.py"
 # 1. voices (Kokoro) + speech-to-text check
-"$PY" core/tts/tts.py "$HERE/lines.json" "$HERE/voices"
+"$PY" "$HERE/voices.py"                                  # Kokoro offline; your lines via Microsoft edge-tts (needs the internet)
 "$PY" core/tts/asr_check.py "$HERE/lines.json" "$HERE/voices"
 # 2. events (voice times, foley cues) from the page
 node core/render/events.mjs "$HERE"

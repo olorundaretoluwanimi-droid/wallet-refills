@@ -2,8 +2,10 @@ WHAT IF YOUR WALLET REFILLED EVERY MORNING? — third-party assets and licences
 
 Voices
   Kokoro-82M text-to-speech (hexgrad), run offline through kokoro-onnx — Apache License 2.0.
-  Voices used: bm_fable (narrator), am_liam (you), am_onyx (Agent Pike), af_bella (barista), bf_emma (teller).
-  The voices are synthetic. Speech check: faster-whisper base.en (MIT).
+  Voices used: bm_fable (narrator), am_onyx (Agent Pike), af_bella (barista), bf_emma (teller).
+  You (the hero): Microsoft neural voice en-US-AndrewNeural, generated through Microsoft's online speech service
+  with edge-tts (rany2/edge-tts, GPL-3.0 tool). Microsoft's terms apply to the voice; check them before commercial use.
+  All voices are synthetic. Speech check: faster-whisper base.en (MIT).
 
 Music (original score written for this film, rendered from these sample libraries)
   VS Chamber Orchestra: Community Edition, Versilian Studios / Sam Gossner — CC0 1.0
